@@ -2,8 +2,6 @@
 
 ![logo](https://raw.githubusercontent.com/dotdc/media/main/grafana-dashboards-kubernetes/kubernetes-grafana-dashboards-logo.png)
 
-![](https://komarev.com/ghpvc/?username=dusty-82)
-
 ## Table of contents <!-- omit in toc -->
 
 - [Description](#description)
